@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://GingerAle.github.io</id>
+    <title>Or_GingerAle</title>
+    <updated>2020-10-20T07:47:55.952Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://GingerAle.github.io"/>
+    <link rel="self" href="https://GingerAle.github.io/atom.xml"/>
+    <subtitle>Just a game of chance</subtitle>
+    <logo>https://GingerAle.github.io/images/avatar.png</logo>
+    <icon>https://GingerAle.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Or_GingerAle</rights>
+</feed>
